@@ -1,5 +1,5 @@
 
-						SCIPY
+					          	SCIPY
 ==================
 Linear regression:
 ==================
@@ -18,6 +18,7 @@ amount left on card = -$1(songs bought) + 100 or y = -x +100
 profit = $.25(glasses I sell) - .05(glasses I sell) - 100
 or y = .25x - .05x - 100 = .20x - 100
 There's about a million examples of linear equations in "the real world." There's a bunch of algebra that the average Joe will never use, but this stuff shows up everywhere.
+
 
 
 
